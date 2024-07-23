@@ -23,7 +23,29 @@ Follow these instructions to set up and run the project locally.
 ### Installation
 
 1. **Clone the repository:**
+
    ```sh
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/riyaj-kalegar03/Assignment-1.git
+   cd Assignment 1
+
    ```
+
+2. **install dependencies**
+
+npm install
+
+3. **To run the application, execute:**
+
+npm run dev
+
+## **Optional: Using Faker for Fake Data**
+
+If you want to generate fake data, you can use the faker package. Follow these step to install:
+
+# Install the faker package:
+
+npm install faker
+
+# Import and use Faker in your project:
+
+https://www.npmjs.com/package/@faker-js/faker
