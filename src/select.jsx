@@ -125,9 +125,6 @@ export default function Company() {
     <div className="select-options">
       <div className="select">
         <div>
-          <label htmlFor="companySelect" className="form-label">
-            Company Name
-          </label>
           <select
             id="companySelect"
             className="form-select"
@@ -139,9 +136,6 @@ export default function Company() {
           </select>
         </div>
         <div>
-          <label htmlFor="accountSelect" className="form-label">
-            Account Name
-          </label>
           <select
             id="accountSelect"
             className="form-select"
