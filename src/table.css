@@ -1,0 +1,24 @@
+.table-container h6 {
+  text-align: start;
+  margin: 2rem 0 4rem 0;
+  font-size: 18px;
+}
+.table-container table thead tr {
+  line-height: 30px;
+}
+.table thead tr th {
+  background-color: rgb(242, 244, 244);
+  font-weight: 500;
+  text-align: start;
+  vertical-align: top;
+}
+
+.table tbody td {
+  padding: 0 10px;
+  line-height: 40px;
+  text-align: start;
+}
+
+.table tbody .credits {
+  color: green;
+}

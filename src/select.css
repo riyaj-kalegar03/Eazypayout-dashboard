@@ -1,0 +1,11 @@
+.select {
+  margin: 0.5rem;
+  width: 400px;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+.select select {
+  width: 200px;
+  margin-right: 2px;
+}
