@@ -38,14 +38,14 @@ npm install
 
 npm run dev
 
-## **Optional: Using Faker for Fake Data**
+**Optional: Using Faker for Fake Data**
 
 If you want to generate fake data, you can use the faker package. Follow these step to install:
 
-# Install the faker package:
+**Install the faker package:**
 
 npm install faker
 
-# Import and use Faker in your project:
+**Import and use Faker in your project:**
 
 https://www.npmjs.com/package/@faker-js/faker
