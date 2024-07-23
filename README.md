@@ -8,8 +8,8 @@ This project is a React application for the EazyPayouts Dashboard. It provides a
 
 ## Screenshots
 
-![EazyPayouts Dashboard](./assets/img 2.png)
-![EazyPayouts Dashboard](./assets/img 1.png)
+![EazyPayouts Dashboard](./assets/img_2.png)
+![EazyPayouts Dashboard](./assets/img_1.png)
 ![EazyPayouts Dashboard](./assets/Screenshot%202024-07-23%20144403.png)
 
 ## Getting Started
