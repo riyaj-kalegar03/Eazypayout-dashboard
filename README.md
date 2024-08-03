@@ -1,6 +1,6 @@
 # Assignment 1
 
-# EazyPayouts Dashboard
+## EazyPayouts Dashboard
 
 ## Project Overview
 
