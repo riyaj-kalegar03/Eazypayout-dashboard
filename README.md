@@ -45,5 +45,6 @@ If you want to generate fake data, you can use the faker package. Follow these s
 npm install faker
 
 **Import and use Faker in your project:**
+for fake valus
 
 https://www.npmjs.com/package/@faker-js/faker
