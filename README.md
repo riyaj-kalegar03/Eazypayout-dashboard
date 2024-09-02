@@ -4,7 +4,7 @@
 
 This project is a React application for the EazyPayouts Dashboard. It provides an interface to view account balances and transactions for different companies.
 
-# Screenshots
+## Screenshots
 
 ![EazyPayouts Dashboard](./assets/img_2.png)
 ![EazyPayouts Dashboard](./assets/img_1.png)
