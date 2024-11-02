@@ -1,4 +1,4 @@
-# EazyPayouts Dashboard
+## EazyPayouts Dashboard
 
 ## Project Overview
 
