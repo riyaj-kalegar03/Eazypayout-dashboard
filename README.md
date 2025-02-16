@@ -1,5 +1,9 @@
 ## EazyPayouts Dashboard
 
+## Live Preview
+https://eazypayoutsdashboard.netlify.app/
+
+
 ## Project Overview
 
 This project is a React application for the EazyPayouts Dashboard. It provides an interface to view account balances and transactions for different companies.
