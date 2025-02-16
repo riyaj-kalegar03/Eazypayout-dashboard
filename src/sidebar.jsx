@@ -3,7 +3,7 @@ export default function Sidebar() {
     <div className="sidebar">
       <div className="sidebar-header">
         <div className="sidebar-logo">
-          <img src="./public/ass1logo.jpg" alt="" />
+          <img src="./assets/ass1logo.jpg" alt="" />
         </div>
         <div className="btns">
           <button className="loads">

@@ -3,7 +3,7 @@ export default function Balance() {
   return (
     <div className="balance">
       <div className="left">
-        <img src="./public/money s.jpg" alt="" />
+        <img src="./assets/money s.jpg" alt="" />
       </div>
       <div className="right">
         <h6>Available Balance</h6>
